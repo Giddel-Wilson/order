@@ -1,6 +1,6 @@
 <main class="relative container w-screen h-screen flex justify-center items-center bg-[#E1E9FF]">
-	<enhanced:img src="../lib/assets/pattern-background-desktop.svg" alt="" class="absolute top-0 left-0 w-full z-0 dt-img">
-	<enhanced:img src="../lib/assets/pattern-background-mobile.svg" alt="" class="absolute top-0 left-0 w-full z-0 mb-img hidden">
+	<enhanced:img src="../lib/assets/pattern-background-desktop.svg" alt="" class="absolute top-0 left-0 w-screen z-0 dt-img">
+	<enhanced:img src="../lib/assets/pattern-background-mobile.svg" alt="" class="absolute top-0 left-0 w-screen z-0 mb-img hidden">
 	<div class="card main-card variant-filled w-96 h-max rounded-xl overflow-hidden z-50">
 		<div class="card-image w-full">
 			<enhanced:img src="../lib/assets/illustration-hero.svg" alt="" class="w-full h-full object-cover">
